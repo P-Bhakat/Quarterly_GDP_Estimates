@@ -11,16 +11,16 @@ In this project I have analysed the dataset consisting the GDP values in various
 
 ## 👉🏻 The Dashboard:
 
-![image](https://github.com/user-attachments/assets/da9f34eb-4008-4142-bef5-f53c03a6b0c8)
+![image](https://github.com/user-attachments/assets/ede6b5a0-b5e8-4b12-bac7-3fd44abfce39)
 
-![image](https://github.com/user-attachments/assets/406734eb-e41b-4c67-8882-1efd8204c2ce)
+![image](https://github.com/user-attachments/assets/0f781990-2853-41ed-8d40-7c8fd143de27)
 
+![image](https://github.com/user-attachments/assets/9413a230-d1ee-412a-a074-8b5574088bc0)
 
-![image](https://github.com/user-attachments/assets/4f37f496-a0cd-4c60-975c-ff28812ddcf3)
+![image](https://github.com/user-attachments/assets/92538d0b-af38-4d9a-b330-2e647a769831)
 
-![image](https://github.com/user-attachments/assets/d25f4c5b-3a17-43d9-960b-838af2b8dd93)
+![image](https://github.com/user-attachments/assets/7f2b7c91-e0ee-4770-856a-16119d95d368)
 
-![image](https://github.com/user-attachments/assets/25452fab-63d6-4e0a-82a3-ccbf1f517ea5)
 
 
 
