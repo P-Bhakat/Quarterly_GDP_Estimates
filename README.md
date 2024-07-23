@@ -1,6 +1,6 @@
 # Quarterly_GDP_Estimates
+In this project I have analysed the dataset consisting the GDP values in various sectors namely
 
-In this project I have analysed the dataset consisting the GDP values in various sectors anemely
 - Agriculture, Forestry and Fishing
 - Construction
 - Electricity, Gas, Water Supply & Other Utility
